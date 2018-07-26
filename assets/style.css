@@ -1,0 +1,48 @@
+.navbar-dark .navbar-brand {
+  color: white;
+}
+
+.navbar {
+  border-bottom: 5px;
+  border-bottom-color: teal;
+  border-bottom-style: solid;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: white;
+}
+
+.container {
+  margin-top: 40px;
+  margin-bottom: 100px;
+}
+.pt-4 {
+  text-align: center;
+}
+
+.mb-3 {
+  background-color: #212529 !important;
+  color: white !important;
+}
+.card-header {
+  background-color: teal !important;
+}
+
+#add-train {
+  background-color: teal;
+  border-color: white;
+}
+.footer {
+  background: #212529;
+  text-align: center;
+  color: white;
+  font-size: 15px;
+  border-top: 5px;
+  border-top-color: teal;
+  border-top-style: solid;
+  padding: 10px;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
